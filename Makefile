@@ -1,4 +1,4 @@
-# $NetBSD$
+# $NetBSD: Makefile,v 1.1 2018/08/05 15:00:46 schmonz Exp $
 
 DISTNAME=		qpasswd-0.5
 CATEGORIES=		sysutils

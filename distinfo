@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: distinfo,v 1.1 2018/08/05 15:00:46 schmonz Exp $
 
 SHA1 (qpasswd-0.5.tar.bz2) = 72cb41406cf1c3542fc70aefbbde74e7c3dd4cf5
 RMD160 (qpasswd-0.5.tar.bz2) = 0b596c1c487bd9d7c45d2710687f17e2b509a64d

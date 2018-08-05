@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-qpasswd.h,v 1.1 2018/08/05 15:00:46 schmonz Exp $
 
 Avoid Linuxisms.
 
