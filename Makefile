@@ -19,6 +19,9 @@ SUBST_SED.paths=	-e 's|/etc/qpasswd|${PKG_SYSCONFDIR}/qpasswd|g'
 
 DJB_RESTRICTED=		no
 
+LDFLAGS.Linux+=		-lcrypt
+LDFLAGS.NetBSD+=	-lcrypt
+
 NO_CONFIGURE=		yes
 TEST_TARGET=		check
 
